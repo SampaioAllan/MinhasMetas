@@ -4,3 +4,10 @@ Metas do amigo para 6 meses
     Concluir seu curso na Flit;
     Visitar SC;
 }
+
+Metas do amigo para 2 anos
+{
+    Conquistar casa própria;
+    Virar Pleno/Senior;
+    Quitar seu carro;
+}
