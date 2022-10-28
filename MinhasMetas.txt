@@ -4,9 +4,16 @@ Metas para seis meses
 } 
     
 
-Metas colega para 2 anos
+Metas para 2 anos
 {
     Subir de cargo no trabalho;
     Visitar minha irmã;
+}
+    
+Metas para 5 anos
+{
+    Aprender inglês;
+    Me tornar Senior;
+    Adquirir primeiro imóvel;
 }
     
