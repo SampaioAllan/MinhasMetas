@@ -1,0 +1,6 @@
+Metas do amigo para 6 meses
+{
+    Conseguir seu primeiro emprego como desenvolvedor;
+    Concluir seu curso na Flit;
+    Visitar SC;
+}
