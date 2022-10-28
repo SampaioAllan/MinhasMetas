@@ -1,1 +1,12 @@
-Metas para seis meses: Concluir o curso ao passo que evoluo no trabalho;
+Metas para seis meses
+{
+    Concluir o curso ao passo que evoluo no trabalho;
+} 
+    
+
+Metas colega para 2 anos
+{
+    Subir de cargo no trabalho;
+    Visitar minha irmã;
+}
+    
