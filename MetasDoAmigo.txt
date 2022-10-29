@@ -11,3 +11,10 @@ Metas do amigo para 2 anos
     Virar Pleno/Senior;
     Quitar seu carro;
 }
+Metas do amigo para 5 anos
+{
+    Virar Senior top das galaxias;
+    Trabalhar pra outro pais;
+    Aprender inglês;
+    Visitar outros paises;
+}
